@@ -5,6 +5,7 @@ _ As an admin I can:
   + Manage category
   + Manage product 
   + Manage order
+
 _ As a user I can:
   + View product
   + Add product to cart
