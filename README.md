@@ -8,8 +8,10 @@ _ As an admin I can:
   + Manage order
 
 _ As a user I can:
+  + Sign up
+  + Sign in
   + View product
   + Add product to cart
   + Manage cart 
-  + Check out
+  + Check out (Add cart to order history)
   + View order history
