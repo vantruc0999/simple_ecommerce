@@ -1,0 +1,104 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Customer purchased 2 units of Item A on July 26, 2023.",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "Refunded $5.49 for the transaction made on July 25, 2023.",
+      "price": 5.49
+    },
+    {
+      "id": 3,
+      "name": "Customer purchased 1 unit of Item C on July 24, 2023.",
+      "price": 15.00
+    },
+    {
+      "id": 4,
+      "name": "Refunded $7.25 for the transaction made on July 23, 2023.",
+      "price": 7.25
+    },
+    {
+      "id": 5,
+      "name": "Customer purchased 3 units of Item E on July 22, 2023.",
+      "price": 12.75
+    },
+    {
+      "id": 6,
+      "name": "Customer purchased 1 unit of Item F on July 21, 2023.",
+      "price": 9.99
+    },
+    {
+      "id": 7,
+      "name": "Refunded $2.50 for the transaction made on July 20, 2023.",
+      "price": 2.50
+    },
+    {
+      "id": 8,
+      "name": "Customer purchased 2 units of Item H on July 19, 2023.",
+      "price": 18.50
+    },
+    {
+      "id": 9,
+      "name": "Refunded $6.99 for the transaction made on July 18, 2023.",
+      "price": 6.99
+    },
+    {
+      "id": 10,
+      "name": "Customer purchased 1 unit of Item J on July 17, 2023.",
+      "price": 14.49
+    },
+    {
+      "id": 11,
+      "name": "Customer purchased 4 units of Item K on July 16, 2023.",
+      "price": 20.00
+    },
+    {
+      "id": 12,
+      "name": "Refunded $11.25 for the transaction made on July 15, 2023.",
+      "price": 11.25
+    },
+    {
+      "id": 13,
+      "name": "Customer purchased 2 units of Item M on July 14, 2023.",
+      "price": 8.75
+    },
+    {
+      "id": 14,
+      "name": "Customer purchased 1 unit of Item N on July 13, 2023.",
+      "price": 4.99
+    },
+    {
+      "id": 15,
+      "name": "Refunded $16.50 for the transaction made on July 12, 2023.",
+      "price": 16.50
+    },
+    {
+      "id": 16,
+      "name": "Customer purchased 3 units of Item P on July 11, 2023.",
+      "price": 13.99
+    },
+    {
+      "id": 17,
+      "name": "Customer purchased 2 units of Item Q on July 10, 2023.",
+      "price": 9.25
+    },
+    {
+      "id": 18,
+      "name": "Refunded $7.50 for the transaction made on July 9, 2023.",
+      "price": 7.50
+    },
+    {
+      "id": 19,
+      "name": "Customer purchased 1 unit of Item S on July 8, 2023.",
+      "price": 19.99
+    },
+    {
+      "id": 20,
+      "name": "Refunded $12.00 for the transaction made on July 7, 2023.",
+      "price": 12.00
+    }
+  ]
+}
